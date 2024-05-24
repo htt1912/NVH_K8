@@ -1,0 +1,3 @@
+<div class="footer-wrap pd-20 mb-20 card-box">
+				Phần mềm quản lý nhân sự <a href="#" target="_blank"><span>Phát triển bởi </span> Admin</a>
+			</div>
